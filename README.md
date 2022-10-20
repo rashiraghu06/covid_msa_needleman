@@ -1,6 +1,8 @@
 # covid_msa_needleman
 
-The pseudocode for the algorithm implementation is:
+This code was created in partial fulfillment of the requirements for the Final Project in Biol 123A in SJSU. 
+
+The pseudocode for the needleman wunch algorithm implementation is:
 
 1. Reads the files and converts the files into a single line with just the sequence for
 each virus
